@@ -1,0 +1,711 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.frame{
+    width: 1920px;
+    height: 1033px;
+    background: #050622;
+}
+
+.logotip{
+    margin-top: 45px;
+    margin-left: 290px;
+}
+
+.btn{
+    width: 121px;
+    height: 44px;
+    background: #564FFF;
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    padding: 12px 12px;
+    margin-left: 847px;
+    margin-top: 46px;
+}
+
+.buttons{
+    width: 155px;
+    height: 44px;
+    background: rgba(86, 79, 255, 0.15);
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #FFFFFF;
+    margin-left: 19px;
+    margin-top: 46px;
+}
+
+.header-body .pubg{
+    margin-top: 60px;
+    margin-left: 838px;
+}
+
+.header-body h1{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 46px;
+    line-height: 72px;
+    /* identical to box height */
+    color: #FFFFFF;
+    margin-top: -490px;
+    margin-left: 290px;
+}
+
+.header-body span{
+    color:   #4500D9;
+}
+
+.header-body p{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    margin-top: 14px;
+    margin-left: 290px;
+}
+
+.header-body h2{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    margin-top: 26px;
+    margin-left: 290px;
+}
+
+.header-body .text{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -5px;
+}
+
+.header-body .tekst{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    margin-left: 580px;
+    margin-top: -105px;
+}
+
+.header-body .text1{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 580px;
+    margin-top: -5px;
+}
+
+.header-body h3{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    margin-left: 570px;
+    margin-top: 168px;
+
+}
+
+.cartoon{
+    display: flex;
+}
+
+.card1{
+     height: 229px;
+     width: 388px;
+     background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+     margin-top: 24px;
+     margin-left: 292px;
+     position: relative;
+
+
+ }
+
+ .card1 img{
+     position: absolute;
+     left: 34px;
+     top: -33px;
+ }
+
+.card1 h4{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    color: #FFFFFF;
+   transform: translateY(54px) translateX(34px);
+}
+
+.card1 p{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A7A7C8;
+    margin-top: 11px;
+    margin-left: 34px;
+    transform: translateX(4px) translateY(51px);
+}
+
+.wrap{
+    height: 829px;
+    width: 1920px;
+    background:  #0E112D;
+
+
+}
+
+.wrap h3{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+ transform: translateY(60px) translateX(650px);
+}
+
+.wrap .samsung21{
+    transform: translateX(238px)  translateY(-380px);
+
+}
+
+.wrap .samsung{
+    margin-left: 245px;
+    margin-top: -790px;
+}
+
+.wrap h2{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 41px;
+    color: #FFFFFF;
+    /*margin-top: 163px;*/
+    /*margin-left: 978px;*/
+    transform: translateX(978px) translateY(163px);
+}
+
+.wrap p{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+  transform: translateY(160px) translateX(978px);
+}
+
+.wrap h5{
+    margin-left: 978px;
+    margin-top: 180px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.wrap .walhack{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    margin-top: -160px;
+}
+
+.wrap  button{
+    width: 186px;
+    height: 56px;
+    background: #564FFF;
+    border-radius: 5px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #FFFFFF;
+    margin-left: 978px;
+    margin-top: 200px;
+}
+
+.wrap .tgram{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A7A7C8;
+    margin-top: -205px;
+    margin-left: 218px;
+
+}
+
+.wrap span{
+color: #564FFF;
+
+}
+
+.wrap1{
+    height: 652px;
+    width: 1920px;
+    background:#050622 ;
+
+}
+
+.wrap1 .iphone14{
+    margin-top: 48px;
+    margin-left: 1265px;
+}
+
+.wrap1 .iphone{
+    margin-left: 715px;
+    margin-top: -570px;
+}
+
+.wrap1 h2{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 41px;
+    color: #FFFFFF;
+    margin-left: 286px;
+    margin-top: -550px;
+}
+
+.wrap1 p{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    margin-left: 286px;
+}
+
+.wrap1 .funcsia{
+    margin-left: 286px;
+    margin-top: 18px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.wrap1 .buttons{
+    width: 186px;
+    height: 56px;
+    background: #564FFF;
+    border-radius: 5px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #FFFFFF;
+    margin-left: 286px;
+    margin-top: 17px;
+}
+
+.wrap1 .tgram{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A7A7C8;
+    margin-left: 496px;
+    margin-top: -45px;
+}
+
+.wrap1 .span1{
+    color:  #564FFF;
+}
+
+
+.wrap2{
+    height: 1643px;
+    width: 1920px;
+     background: #050622;
+}
+
+.wrap2 h1 {
+    font-family: 'TT Interfaces', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    transform: translateX(659px) translateY(84px);
+}
+
+.wrap2 .android{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+    background: #564FFF;
+    border-radius: 5px;
+    margin-left: 643px;
+    margin-top: 110px;
+}
+
+.wrap2 .ios{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+    background: rgba(86, 79, 255, 0.25);
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+    margin-left: 16px;
+}
+
+.wrap2 .traced{
+    margin-left: -560px;
+    margin-top: 200px;
+}
+
+.traced1{
+    margin-top: 200px;
+    margin-left: 310px;
+}
+
+.traced2{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.apple{
+    margin-top: 199px;
+}
+
+.cub{
+    display: flex;
+}
+
+.cart{
+    height: 456px;
+    width: 326px;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+    margin-top: 17px;
+    margin-left: 305px;
+    position: relative;
+}
+
+.cart h2{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #FFFFFF;
+    transform: translateY(23px) translateX(109px);
+}
+
+.cart p{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    margin-top: 36px;
+    margin-left: 29px;
+}
+
+.cart h3{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    margin-left: 90px;
+    margin-top: 45px;
+}
+
+.cart h6{
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #A7A7C8;
+    margin-left: 131px;
+    margin-top: 10px;
+}
+
+.cart button{
+    width: 325px;
+    height: 75px;
+    background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+    border-radius: 5px;
+    margin-top: 41px;
+}
+
+.cart .rub{
+    transform: translateY(-16px);
+}
+
+.cart img{
+    position: absolute;
+    top: -40px;
+    margin-left: -35px;
+}
+
+.foter h1{
+    margin-left: -120px;
+}
+
+.foter ul {
+    position: absolute;
+    width: 1102px;
+    height: 300px;
+    left: 328px;
+    top: 3470px;
+    background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+    border-radius: 30px;
+
+}
+
+.foter ul li {
+    width: 1050px;
+    transform: translateX(30px) translateY(34px);
+}
+
+.foter ul li .uk-accordion-title {
+    color: #FFFFFF;
+}
+
+ul li .uk-accordion-content p {
+    font-family: 'TT Interfaces', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #A7A7C8;
+}
+
+.footer__img .master{
+    position: absolute;
+    left: 700px;
+    top: 4040px;
+}
+
+.footer__img p{
+    position: absolute;
+    width: 342px;
+    height: 36px;
+    left: 678px;
+    top: 4067px;
+    font-family: 'TT Interfaces',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #676B8B;
+}
+
+.footer__img .visa{
+    position: absolute;
+    left: 800px;
+    top: 4040px;
+}
+
+
+.footer__img .pci{
+    position: absolute;
+    left: 880px;
+    top: 4040px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
